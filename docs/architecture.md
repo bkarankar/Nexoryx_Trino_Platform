@@ -1,9 +1,3 @@
-# Architecture
+# Nexoryx_Trino_Platform Architecture
 
-Users -> Ingress -> Trino Coordinator -> Trino Workers
-
-Backend:
-- Hive Metastore
-- PostgreSQL
-- MinIO
-- Spark
+Production-grade infrastructure automation.
